@@ -19,6 +19,6 @@ When screen size shrinks to mobile phone size it fits to single column
 
 ## Questions
 
-For questions regarding this project or any others I can be reached at:<br>
-Github: [katepatch](https://github.com/katepatch)</br>
+For questions regarding this project or any others I can be reached at:</br>
+Github: [katepatch](https://github.com/katepatch)</.br>
 Email: kate.epatch@gmail.com
